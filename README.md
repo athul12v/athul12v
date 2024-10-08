@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ATHUL and I'm a ML STUDENT, from KERALA</p>
+<p align="left">My name is ATHUL and I'm a Data Science STUDENT, from KERALA</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning Deep Learning/AI<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently Data Scientist.<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
