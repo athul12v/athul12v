@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently Data Scientist.<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently Data Science Intern.<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
