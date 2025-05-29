@@ -5,7 +5,7 @@
 *Data Science Intern | Software Engineer | Building AI LLM Agents with Copilot Studio, Ollama, and AnythingLLM.*
 
 
-- <img src="https://h4tech.com/assets/h4Log-BhJAdqgR.svg" width="100" alt="H4TECH">
+- <a href="https://www.linkedin.com/in/v-athul/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"></a>
 - ![Twitter Badge](https://img.shields.io/twitter/follow/athul?style=social)
 
 
