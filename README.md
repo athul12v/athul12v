@@ -2,7 +2,7 @@
 
 <img align='right' src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="230">
 
-*Data Science Intern | Software Engineer | Building AI LLM Agents with Copilot Studio, Ollama, and AnythingLLM.*
+*Data Science Intern | Software Engineer | Building AI LLM Agents with Ollama and AnythingLLM.*
 
 
 - <a href="https://www.linkedin.com/in/v-athul/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"></a>
