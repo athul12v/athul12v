@@ -10,15 +10,17 @@
 - ![Twitter Badge](https://img.shields.io/twitter/follow/athul?style=social)
 
 
-## 🛠️ **My Work:**
+## 🛠️ **My Works:**
 
 I document my experiments in developing and deploying algorithms that enable machines to learn and make decisions from data.
 
-### 🔭 **Currently Working On:**
-- Building AI LLM agents using **Copilot Studio**, **Deepseek**, **Ollama**, and **AnythingLLM**.
-- Developing AI-powered web apps with **Python Flask** and **Streamlit**.
-- Exploring **Reinforcement Learning**.
-- Database management with **PostgreSQL** and **Firebase**.
+- 🔭 I’m currently working on: 
+
+      - Building AI LLM agents using Copilot Studio, Deepseek, Ollama, and AnythingLLM.
+      - TDeveloping AI-powered web apps with Python Flask and Streamlit.
+      - Reinforcement learning.
+      - Database management with PostgreSQL and Firebase.
+
 
 ### 🌱 **Learning:**
 - Scaling LLM systems and implementing advanced **AI algorithms**.
@@ -30,74 +32,17 @@ I document my experiments in developing and deploying algorithms that enable mac
 
 ---
 
-## 🔧 **Tech Stack:**
+### 🔨 Languages and Tools:
 
-### **Programming Languages:**
-| Language        | Icon                                                       |
-|-----------------|------------------------------------------------------------|
-| **Python**      | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
-| **JavaScript**  | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-| **Java**        | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) |
-| **TypeScript**  | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) |
+I have used these tools (non exhaustive list) to develop bug-free software that has been published/deployed for real world application.
 
-### **Web Development:**
-| Framework      | Icon                                                       |
-|----------------|------------------------------------------------------------|
-| **Flask**      | ![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg) |
-| **Django**     | ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg) |
-| **React**      | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) |
-| **Angular**    | ![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg) |
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
-### **Data Science & Machine Learning:**
-| Library         | Icon                                                       |
-|-----------------|------------------------------------------------------------|
-| **Pandas**      | ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg) |
-| **NumPy**       | ![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg) |
-| **Scikit-Learn**| ![Scikit-Learn](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg) |
-| **TensorFlow**  | ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) |
-| **PyTorch**     | ![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg) |
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-### **Databases:**
-| Database        | Icon                                                       |
-|-----------------|------------------------------------------------------------|
-| **PostgreSQL**  | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) |
-| **MySQL**       | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) |
-| **Firebase**    | ![Firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg) |
-| **MongoDB**     | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) |
+<br>
 
-### **DevOps & Tools:**
-| Tool            | Icon                                                       |
-|-----------------|------------------------------------------------------------|
-| **Git**         | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) |
-| **Docker**      | ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) |
-| **Postman**     | ![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg) |
-| **Jupyter Notebook** | ![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg) |
 
-### **Other Technologies:**
-| Technology      | Icon                                                       |
-|-----------------|------------------------------------------------------------|
-| **OpenAI (AnythingLLM)** | ![OpenAI](https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg) |
-| **Streamlit**   | ![Streamlit](https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg) |
-| **Redis**       | ![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg) |
-| **WebRTC**      | ![WebRTC](https://raw.githubusercontent.com/devicons/devicon/master/icons/webrtc/webrtc-original.svg) |
-
----
-
-## 🤝 **Connect with Me:**
-
-*I love connecting with like-minded people! If you're working on AI, data science, or anything related to tech, feel free to reach out. I'm always up for collaboration and sharing ideas!*
-
-## ### **Social Media:**
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="40" alt="LinkedIn">
-  </a>
-  <a href="https://discord.com/users/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/Discord_logo_2023.svg" width="40" alt="Discord">
-  </a>
-</div>
-
----
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'd be happy to hear from you!</b> :)</em>
