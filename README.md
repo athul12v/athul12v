@@ -5,7 +5,6 @@
 *Data Science Intern | Software Engineer | Building AI LLM Agents with Copilot Studio, Ollama, and AnythingLLM.*
 
 
-## 🌟 **Currently Working With:**
 - <img src="https://h4tech.com/assets/h4Log-BhJAdqgR.svg" width="100" alt="H4TECH">
 - ![Twitter Badge](https://img.shields.io/twitter/follow/athul?style=social)
 
