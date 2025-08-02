@@ -2,11 +2,7 @@
 
 <img align='right' src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="230">
 
-*Data Science Intern | Software Engineer | Building AI LLM Agents with Ollama and AnythingLLM.*
-
-
-- <a href="https://www.linkedin.com/in/v-athul/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"></a>
-- ![Twitter Badge](https://img.shields.io/twitter/follow/athul?style=social)
+*Software Engineer | Building AI LLM Agents | Copilot*
 
 
 ## 🛠️ **My Works:**
@@ -16,7 +12,8 @@ I document my experiments in developing and deploying algorithms that enable mac
 - 🔭 I’m currently working on: 
 
       - Building AI LLM agents using Copilot Studio, Deepseek, Ollama, and AnythingLLM.
-      - TDeveloping AI-powered web apps with Python Flask and Streamlit.
+      - Developing AI-powered web apps with Python Flask and Streamlit.
+      - Copilot Agents for dev environments, knowledgebases, and automation
       - Reinforcement learning.
       - Database management with PostgreSQL and Firebase.
 
@@ -43,5 +40,6 @@ I have used these tools (non exhaustive list) to develop bug-free software that 
 
 <br>
 
+<a href="https://www.linkedin.com/in/v-athul/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'd be happy to hear from you!</b> :)</em>
