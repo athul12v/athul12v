@@ -11,7 +11,7 @@ I document my experiments in developing and deploying algorithms that enable mac
 
 - 🔭 I’m currently working on: 
 
-      - Building AI LLM agents using Copilot Studio, Deepseek, Ollama, and AnythingLLM.
+      - Building AI LLM agents using Deepseek, Ollama, and AnythingLLM.
       - Developing AI-powered web apps with Python Flask and Streamlit.
       - Copilot Agents for dev environments, knowledgebases, and automation
       - Reinforcement learning.
